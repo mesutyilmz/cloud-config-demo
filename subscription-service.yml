@@ -2,5 +2,5 @@ default-value: ottv-value
 
 deneme:
   app:
-    property: deneme2
-    property2: deneme2
+    property: deneme1
+    property2: deneme1
