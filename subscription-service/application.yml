@@ -1,4 +1,4 @@
-default-value: develop-value
+default-value: app-value
 deneme:
   app:
     property: deneme

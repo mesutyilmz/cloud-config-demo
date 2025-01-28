@@ -1,4 +1,5 @@
-default-value: app-value
+default-value: ottv-value
+
 deneme:
   app:
     property: deneme1
