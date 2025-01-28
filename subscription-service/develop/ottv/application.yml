@@ -1,0 +1,5 @@
+default-value: ottv-value
+
+deneme:
+  app:
+    property2: deneme1

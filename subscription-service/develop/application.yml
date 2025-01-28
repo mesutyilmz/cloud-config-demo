@@ -1,0 +1,5 @@
+default-value: develop-value
+deneme:
+  app:
+    property: deneme
+    proterty-2: deneme2
