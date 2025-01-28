@@ -2,4 +2,4 @@ default-value: app-value
 deneme:
   app:
     property: deneme
-    proterty-2: deneme2
+    proterty2: deneme2
