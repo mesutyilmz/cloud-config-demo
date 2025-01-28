@@ -2,4 +2,5 @@ default-value: ottv-value
 
 deneme:
   app:
+    proprety: deneme
     property2: deneme1
