@@ -1,5 +1,5 @@
 default-value: develop-value
 deneme:
   app:
-    property: deneme
+    property: deneme2
     property2: deneme2
