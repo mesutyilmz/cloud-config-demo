@@ -1,0 +1,6 @@
+default-value: ${NVM_DIR:default}
+
+deneme:
+  app:
+    property: deneme2
+    property2: deneme2
