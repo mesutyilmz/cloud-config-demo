@@ -4,4 +4,4 @@ deneme:
   app:
     property: deneme1
     property2: deneme1
-    property3: lifebox-changed-property
+    property3: ${NVM_DIR:default}
